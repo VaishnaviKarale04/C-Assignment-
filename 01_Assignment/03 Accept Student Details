@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+
+    {
+        char Name[10] = "Ajay" , Course[20] = "Computer Science", City[10] = "Pune";
+        int RN = 1234;
+
+        printf("\n Enter Student Name : %s",Name);
+
+        printf("\n Enter Roll Number : %d",RN);
+
+        printf("\n Enter Course Scinece : %s",Course);
+
+        printf("\n Enter City : %s",City);
+    }
