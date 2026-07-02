@@ -24,7 +24,6 @@ int main()
 
     printf("\n Size Of long double is = %d",sizeof(long double));
 
-
     getch();
     return 0;
     }
